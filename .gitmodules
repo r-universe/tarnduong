@@ -3,3 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "eks"]
+	path = eks
+	url = https://github.com/cran/eks
+	shallow = true
+	registered = true
+[submodule "feature"]
+	path = feature
+	url = https://github.com/cran/feature
+	shallow = true
+	registered = true
+[submodule "ks"]
+	path = ks
+	url = https://github.com/cran/ks
+	shallow = true
+	registered = true
+[submodule "prim"]
+	path = prim
+	url = https://github.com/cran/prim
+	shallow = true
+	registered = true
